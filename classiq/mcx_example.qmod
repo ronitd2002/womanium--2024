@@ -1,0 +1,8 @@
+qfunc main(output cntrl: qbit[], output target: qbit) {
+  allocate<5>(cntrl);
+  allocate<1>(target);
+  control (cntrl) {
+    X(target);
+  }
+}
+

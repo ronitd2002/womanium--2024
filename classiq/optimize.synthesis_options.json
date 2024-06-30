@@ -1,0 +1,6 @@
+{
+  "constraints": {
+    "max_depth": 25,
+    "optimization_parameter": "depth"
+  }
+}
