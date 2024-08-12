@@ -29,26 +29,8 @@ Quantum Fourier Transform, Non unitary operations and Quantum Walk. Assignments 
 ## Pennylane - Quantum Machine Learning
 Minimize the cost function (expval) with respect to test parameters for a custom variational circuit. Simple stuff. 
 
-## Quantum+AI Challenge :
-
-#### Insights:
-* **AI for climate change**
-###### Summary: 
-
----
-* **AI for climate change**
-###### Summary: 
-
----
-* **AI for climate change**
-###### Summary: 
-
----
-* **AI for climate change**
-###### Summary: 
-
 ---
 
-#### Project chosen for the Womanium cohort:- AI for Climate change.
+#### Project chosen for the Womanium cohort:- QML for Conspicutiy Detection (FRAUNHOFER)
 
-Project Details:
+Project specific `README.md` can be found in the respective directory.
