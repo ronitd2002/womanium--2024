@@ -14,13 +14,13 @@ Using DWave's Ocean SDK in this module we solve Quadratic problems for optimizat
 ### Quantum Annealing:
 
 * What is quantum annealing?
-  A quantum algorithm that utilizes the adiabatic theorem and has applications in optimization 
+  * A quantum algorithm that utilizes the adiabatic theorem and has applications in optimization 
 
 * What kind of qubits does D-Wave use?
-  Superconducting flux qubits 
+  * Superconducting flux qubits 
 
 * How do we formulate real-world problems to solve on D-Wave’s quantum computers?
-  Build a BQM by defining the variables and then combining an objective and constraints 
+  * Build a BQM by defining the variables and then combining an objective and constraints 
 
 ### Superconducting Quantum Hardware:
 
