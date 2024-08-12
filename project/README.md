@@ -64,8 +64,7 @@ All detailed explanations are provided in the Python Notebooks in the respective
 
 ---
 ### Project Presentation Deck:
-
-[**Presentation Slides**](https://www.canva.com/design/DAGNZzfxdQc/60cZ56l3bWqEt87azK80kw/edit?utm_content=DAGNZzfxdQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+_Upload/ Link a 3min. presentation deck here._
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
