@@ -134,8 +134,6 @@ Using DWave's Ocean SDK in this module we solve Quadratic problems for optimizat
 
 ### Neutral-Atom Quantum Hardware:
 
-* [DiVincenzo criteria: well characterized qubit]
-
 * How is quantum information encoded in a neutral-atom qubit, i.e. what constitutes the two-level system with defined states  |0⟩  and  |1⟩?
   * Internal energy state of the atoms 
 
