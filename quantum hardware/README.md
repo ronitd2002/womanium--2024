@@ -1,0 +1,3 @@
+# Theory - Hardware implementations
+
+Here each file denotes the answers to implementation questions asked for this year's womanium cohort quizzes corresponding to the hardware.  They provide a rich perspective in theese systems and require basic knowledge of the implementation, di vincenzo cirteria, qubit operations and noise/ error sources for these qubit implementation as well as advantages and disadvantages of the same.
